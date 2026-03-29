@@ -1,0 +1,4 @@
+.zig-cache/
+zig-out/
+*.parquet
+analysis.ipynb
